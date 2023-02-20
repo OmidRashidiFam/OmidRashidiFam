@@ -2,6 +2,12 @@
 
 <h3 align="center">A passionate Frontend Developer</h3>
 
+<div align="center">
+	<a href="https://github.com/OmidRashidiFam/OmidRashidiFam/">
+ 		<img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/grid-snake.svg" alt="snake" />
+	</a>
+</div>
+
 ## <img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/about.gif" width="35px"> **About me**
 
 <img align="right" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/coding.gif" alt="coding" width=250px>
