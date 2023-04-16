@@ -2,12 +2,6 @@
 
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<div align="center">
-	<a href="https://github.com/OmidRashidiFam/OmidRashidiFam/">
- 		<img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/grid-snake.svg" alt="snake" />
-	</a>
-</div>
-
 ## <img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/about.gif" width="35px"> **About me**
 
 <img align="right" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/coding.gif" alt="coding" width=250px>
@@ -47,11 +41,11 @@
 <a href="https://sass-lang.com" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/sass.svg" alt="sass">
 </a>
-<a href="https://mui.com" target="_blank">
-	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/materialui.svg" alt="material ui">
-</a>
 <a href="https://figma.com" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/figma.svg" alt="figma">
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
 </a>
 <a href="https://git-scm.com/" target="_blank">
 	<img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/git.svg" width="40" height="40" alt="git">
@@ -59,15 +53,18 @@
 <a href="https://reactjs.org" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/react.svg" alt="react">
 </a>
+<a href="https://mui.com" target="_blank">
+	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/materialui.svg" alt="material ui">
+</a>
 <a href="https://react-redux.js.org" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/redux.svg" alt="redux">
 </a>
-<!-- <a href="https://typescriptlang.org" target="_blank">
+<a href="https://typescriptlang.org" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/typescript.svg" alt="typescript">
-</a> -->
-<!-- <a href="https://nextjs.org" target="_blank">
+</a> 
+<a href="https://nextjs.org" target="_blank">
 	<img height="40" src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/nextjs.svg" alt="next js">
-</a> -->
+</a> 
 
 ## <img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/handshake.gif" width="35px"> **Let's Connect..!**
 
@@ -79,5 +76,5 @@
 	<a target="_blank" href="https://OmidRashidiFam.github.io"><img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/website.png" alt="Website"/></a>
 	<a target="_blank" href="mailto:omidrashidifam@gmail.com"><img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/gmail.png" alt="Gmail"/></a>
 	<a target="_blank" href="https://github.com/OmidRashidiFam"><img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/github.png" alt="GitHub"/></a>
-	<!-- <a target="_blank" href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/linkedin.png" alt="LinkedIn"/></a> -->
+	<a target="_blank" href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/OmidRashidiFam/OmidRashidiFam/blob/main/assets/linkedin.png" alt="LinkedIn"/></a>
 </p>
